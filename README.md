@@ -55,15 +55,25 @@ Hey! I'm **DeepuRana** — a creator who enjoys turning ideas into working proje
 
 <div align="center">
 
-  <a href="https://github.com/bucketstarrrYT/HotbarKits-Plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bucketstarrrYT&repo=HotbarKits-Plugin&theme=tokyonight&hide_border=true&bg_color=0B1020" alt="HotbarKits Plugin repository card" />
-  </a>
-  <a href="https://github.com/bucketstarrrYT/Warrior-Smp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bucketstarrrYT&repo=Warrior-Smp&theme=tokyonight&hide_border=true&bg_color=0B1020" alt="Warrior SMP repository card" />
-  </a>
-  <a href="https://github.com/bucketstarrrYT/HavenSMP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bucketstarrrYT&repo=HavenSMP&theme=tokyonight&hide_border=true&bg_color=0B1020" alt="Haven SMP repository card" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="33%">
+        <a href="https://github.com/bucketstarrrYT/HotbarKits-Plugin"><strong>📦 HotbarKits-Plugin</strong></a>
+        <br/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
+      </td>
+      <td align="center" valign="middle" width="33%">
+        <a href="https://github.com/bucketstarrrYT/Warrior-Smp"><strong>⚔️ Warrior-Smp</strong></a>
+        <br/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
+      </td>
+      <td align="center" valign="middle" width="33%">
+        <a href="https://github.com/bucketstarrrYT/HavenSMP"><strong>🏡 HavenSMP</strong></a>
+        <br/><br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
