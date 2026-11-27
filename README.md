@@ -1,115 +1,113 @@
 <!--
-  DeepuRana | GitHub Profile
-  Animated typing SVG + dynamic GitHub stats.
+  DeepuRana aka BucketStar | Video Editing Portfolio
+  Animated header and introduction for the GitHub profile.
 -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=210&section=header&text=DeepuRana&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20REALITY&descAlignY=60&descSize=15&animation=fadeIn" alt="DeepuRana profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B16,45:312E81,100:7C3AED&height=220&section=header&text=BUCKETSTAR&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=VIDEO%20EDITOR%20%E2%80%A2%20RECORDING%20MANAGER&descAlignY=61&descSize=16&animation=fadeIn" alt="BucketStar video editor portfolio banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+DeepuRana+%F0%9F%91%8B;Minecraft+Plugin+Builder+%E2%9A%92%EF%B8%8F;Exploring+AI-assisted+development+%F0%9F%A4%96;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=2700&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hey%2C+I%27m+DeepuRana+aka+BucketStar;Video+Editor+%7C+Recording+Manager;Editing+with+CapCut+%26+Premiere+Pro;This+portfolio+is+growing...+more+to+come" alt="Animated introduction: DeepuRana aka BucketStar, video editor and recording manager" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=bucketstarrrYT&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/bucketstarrrYT?tab=followers">
-    <img src="https://img.shields.io/github/followers/bucketstarrrYT?style=for-the-badge&color=0891B2&labelColor=0B1020&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-IN%20PROGRESS-7C3AED?style=for-the-badge&labelColor=111827" alt="Portfolio in progress" />
+  <a href="https://www.instagram.com/bucketstaryt/">
+    <img src="https://img.shields.io/badge/Instagram-%40bucketstaryt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: bucketstaryt" />
   </a>
-  <a href="https://github.com/bucketstarrrYT?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&labelColor=0B1020" alt="Explore repositories" />
+  <a href="https://discord.gg/5NY2hYFdSb">
+    <img src="https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" />
   </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Hey, I'm DeepuRana — aka BucketStar
 
-Hey! I'm **DeepuRana** — a creator who enjoys turning ideas into working projects.
+I'm a **video editor and recording manager** who enjoys turning raw footage into videos that feel polished, engaging, and easy to watch.
 
-- ⚒️ Building and experimenting with **Minecraft plugins and server projects**.
-- 🤖 Exploring **AI-assisted coding** and ways to build smarter, faster.
-- 🧩 Interested in creative tools, game systems, automation, and problem-solving.
-- 🌱 Always learning something new and improving through hands-on projects.
-- 🚀 My approach: experiment, build, test, improve, repeat.
+I work with **CapCut** and **Adobe Premiere Pro**. This page is my portfolio and a place to bring my editing work together. It's still growing, so **there's more to come**.
 
-> **I don't just want to imagine what's possible — I want to build it.**
-
-## 🛠️ Tech & Interests
+## Editing toolkit
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea&theme=dark" alt="Technologies and tools" />
-
-  <br/><br/>
-
-  ![Minecraft](https://img.shields.io/badge/Minecraft-Plugin%20Development-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
-  ![Paper](https://img.shields.io/badge/Paper-Server%20Projects-20232A?style=for-the-badge)
-  ![AI](https://img.shields.io/badge/AI-AI--assisted%20coding-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" valign="middle" width="33%">
-        <a href="https://github.com/bucketstarrrYT/HotbarKits-Plugin"><strong>📦 HotbarKits-Plugin</strong></a>
-        <br/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
-      </td>
-      <td align="center" valign="middle" width="33%">
-        <a href="https://github.com/bucketstarrrYT/Warrior-Smp"><strong>⚔️ Warrior-Smp</strong></a>
-        <br/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
-      </td>
-      <td align="center" valign="middle" width="33%">
-        <a href="https://github.com/bucketstarrrYT/HavenSMP"><strong>🏡 HavenSMP</strong></a>
-        <br/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=67E8F9&center=true&vCenter=true&width=260&lines=Nothing+Good+Yet+But+Soon" alt="Animated message: Nothing Good Yet But Soon" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bucketstarrrYT&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" alt="DeepuRana GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucketstarrrYT&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&langs_count=6" alt="Most used languages" />
-
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=bucketstarrrYT&theme=tokyonight&hide_border=true&background=0B1020&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
-
-</div>
-
-## 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bucketstarrrYT&bg_color=0B1020&color=CBD5E1&line=06B6D4&point=8B5CF6&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
-</div>
-
----
-
-<div align="center">
-
-  ### ✨ Thanks for stopping by!
-
-  **Keep creating. Keep learning. Keep building.**
-
-  <a href="https://github.com/bucketstarrrYT">
-    <img src="https://img.shields.io/badge/GitHub-DeepuRana-181717?style=for-the-badge&logo=github&logoColor=white" alt="DeepuRana on GitHub" />
+  <a href="https://www.capcut.com/">
+    <img src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/pwa/512.png" height="62" alt="CapCut logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="62" alt="Adobe Premiere Pro logo" />
   </a>
 
   <br/><br/>
 
-  <sub>Designed with curiosity and a lot of ☕</sub>
+  <a href="https://www.capcut.com/">
+    <img src="https://img.shields.io/badge/CapCut-Video%20Editing-111111?style=for-the-badge&logoColor=white" alt="CapCut video editing" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-Video%20Editing-26204A?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro video editing" />
+  </a>
+
+</div>
+
+## What I do
+
+| Focus | What it means |
+|:--|:--|
+| **Video editing** | Building a clear flow with cuts, pacing, transitions, and a polished final export |
+| **Creator content** | Editing content for YouTube and other social platforms |
+| **Recording management** | Helping keep recording sessions and footage organised |
+
+## Selected work
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/SHOWREEL-COMING%20SOON-7C3AED?style=for-the-badge&labelColor=111827" alt="Showreel coming soon" />
+
+  <br/><br/>
+
+  **I'm building this section as I add more projects.**
+
+  More edits and showcases will be added here soon. For now, feel free to contact me about my work or a possible project.
+
+</div>
+
+<!--
+  Add real work samples here when ready.
+  Suggested format:
+  - Project name
+  - Video link (YouTube, Drive, or another public link)
+  - Thumbnail image URL
+  - Editing role and tools used
+-->
+
+## A little more about this portfolio
+
+This is my creative space, not a finished list of everything I can do. I'll keep adding new edits, experiments, and projects as I grow as an editor.
+
+## Let's connect
+
+<div align="center">
+
+  <a href="https://www.instagram.com/bucketstaryt/">
+    <img src="https://img.shields.io/badge/Instagram-@bucketstaryt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Message me on Instagram" />
+  </a>
+  <a href="https://discord.gg/5NY2hYFdSb">
+    <img src="https://img.shields.io/badge/Discord-Connect%20with%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect on Discord" />
+  </a>
+
+  <br/><br/>
+
+  **DeepuRana aka BucketStar**
+
+  <sub>Video Editor • Recording Manager • Always creating</sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090B16&height=100&section=footer" width="100%" alt="Portfolio footer" />
 
 </div>
