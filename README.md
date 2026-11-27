@@ -40,7 +40,7 @@ I work with **CapCut** and **Adobe Premiere Pro**. This page is my portfolio and
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/premiere.html">
-    <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="62" alt="Adobe Premiere Pro logo" />
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg" height="62" alt="Adobe Premiere Pro logo" />
   </a>
 
   <br/><br/>
