@@ -26,7 +26,7 @@ jobs:
             key="${pair%%:*}"; file="${pair#*:}"
             [[ -f "$file" ]] && echo "$key=true" >> "$GITHUB_OUTPUT" || echo "$key=false" >> "$GITHUB_OUTPUT"
           done
-      - uses: gradle/actions/setup-gradle@v4
+      - uses: gradle/actions/setup-gradle@v6
         if: steps.detect.outputs.gradle == 'true' || steps.detect.outputs.gradlek == 'true'
       - name: Build Gradle
         if: steps.detect.outputs.gradle == 'true' || steps.detect.outputs.gradlek == 'true'
